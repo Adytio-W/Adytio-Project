@@ -2,4 +2,5 @@ impor barang
 
 -bambu
 -anggur
-melon
+-melon
+-pisang
